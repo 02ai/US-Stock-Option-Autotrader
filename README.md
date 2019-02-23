@@ -1,1 +1,1 @@
-# stockAndOptionStrategySync
+# US-Stock-Option-Autotrader
